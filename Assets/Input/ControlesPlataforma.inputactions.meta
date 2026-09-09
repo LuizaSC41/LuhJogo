@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dbee3c2dd9695d64e92e5d13d1366bdd
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8404be70184654265930450def6a9037, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: Assets/Input/ControlesPlataforma.cs
+  wrapperClassName: 
+  wrapperCodeNamespace: 
