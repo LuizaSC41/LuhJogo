@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Fase_03_Plataforma2D.unity
     guid: 6d38d69438429554e955c532b4e98e16
   - enabled: 1
+    path: Assets/Scenes/Fase_04_Plataforma2D.unity
+    guid: 1ced6253fdc05454095b878ca32def39
+  - enabled: 1
     path: Assets/Scenes/Telawins.unity
     guid: af0402d51298eb94e9d9f8cb0f25c249
   m_configObjects:
