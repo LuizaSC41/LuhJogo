@@ -13,7 +13,7 @@ using UnityEngine;
 /// - coyote time;
 /// - jump buffer;
 /// - pulo variável;
-/// - inversão visual do personagem ao mudar de direção..
+/// - inversão visual do personagem ao mudar de direção.
 ///
 /// Para funcionar:
 /// - este script deve estar no objeto Jogador;
